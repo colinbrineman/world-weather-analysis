@@ -1,12 +1,18 @@
-# Adding config.py file.
-config.py
-
-# Adding additional files
-# never mind me just doing a test
+# files to ignore
+Vacation_Itinerary/config.py
+Vacation_Search/config.py
+weather_data/
+Weather_Database/config.py
 API_practice.ipynb
-random_numbers.ipynb
+config.py
 Google_Nearby_Search.ipynb
-country_dict.csv
+random_numbers.ipynb
+Vacation_Itinerary_starter_code.ipynb
+Vacation_Search_starter_code.ipynb
+VacationPy.ipynb
+WeatherPy_Data.ipynb
+WeatherPy_Viz.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
