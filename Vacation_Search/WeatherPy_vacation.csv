@@ -9,10 +9,8 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 18,Souillac,MU,25.76,broken clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
 22,Butaritari,KI,27.99,scattered clouds,3.0707,172.7902,Isles Sunset Lodge
 28,Atuona,PF,25.93,light rain,-9.8,-139.0333,Villa Enata
-32,Mangai,CD,21.07,moderate rain,-4.05,19.5333,
 33,Alofi,NU,28.94,scattered clouds,-19.0595,-169.9187,Taloa Heights
 34,Acapulco,MX,28.9,scattered clouds,16.8634,-99.8901,HS Hotsson Smart Acapulco
-35,Saint-Louis,SN,24.8,broken clouds,16.3333,-15.0,
 39,Qui Nhon,VN,21.55,broken clouds,13.7667,109.2333,Hoang Yen Canary Hotel
 40,Bowen,AU,29.2,broken clouds,-20.0167,148.2333,Castle Motor Lodge Motel
 45,Grand-Santi,GF,23.59,broken clouds,4.25,-54.3833,Hotel La Villa Couacou
@@ -20,7 +18,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 54,Puerto Ayora,EC,28.98,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
 57,Vaini,TO,26.73,scattered clouds,-21.2,-175.2,Keleti Beach Resort
 58,Cayenne,GF,27.02,few clouds,4.9333,-52.3333,Hôtel Le Dronmi
-59,Mitu,CO,26.4,broken clouds,1.1983,-70.1733,
 61,Kaeo,NZ,26.29,clear sky,-35.1,173.7833,Bushido Lodge
 62,Bengkulu,ID,23.77,broken clouds,-3.8004,102.2655,Grage Hotel Bengkulu
 65,Avarua,CK,29.03,broken clouds,-21.2078,-159.775,Paradise Inn
@@ -37,7 +34,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 97,Sal Rei,CV,21.31,clear sky,16.1833,-22.9167,Marine Club Beach Resort
 98,Broken Hill,AU,24.35,overcast clouds,-31.95,141.4333,Royal Exchange Hotel
 102,Makakilo City,US,26.18,scattered clouds,21.3469,-158.0858,Marriott's Ko Olina Beach Club
-105,Kanel,SN,28.0,clear sky,15.4916,-13.1763,
 107,Tuatapere,NZ,20.33,overcast clouds,-46.1333,167.6833,Ron and Tony's Bed & Breakfast
 108,Touros,BR,27.5,broken clouds,-5.1989,-35.4608,INN NEW HORIZON
 110,Payakumbuh,ID,20.82,overcast clouds,-0.2202,100.6308,Dalimo Homestay
@@ -99,7 +95,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 238,Sassandra,CI,25.86,broken clouds,4.95,-6.0833,la terrasse
 239,Vao,NC,24.48,scattered clouds,-22.6667,167.4833,Hotel Kou-Bugny
 241,Buala,SB,28.18,overcast clouds,-8.145,159.5921,Maringe Lagoon Lodge
-244,Ouegoa,NC,27.55,broken clouds,-20.35,164.4333,
 246,Cururupu,BR,24.34,scattered clouds,-1.8283,-44.8683,POUSADA TRAVÉS'CIA
 252,Soc Trang,VN,21.98,scattered clouds,9.6033,105.98,Phu Quy Hotel
 259,East London,ZA,23.93,scattered clouds,-33.0153,27.9116,Tu Casa
@@ -108,7 +103,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 264,Arraial Do Cabo,BR,24.98,clear sky,-22.9661,-42.0278,Pousada Porto Praia
 270,Vila Velha,BR,26.08,scattered clouds,-20.3297,-40.2925,Quality Suites Vila Velha
 272,Salalah,OM,22.05,few clouds,17.0151,54.0924,"HAMDAN PLAZA HOTEL SALALAH, an HTG Hotel"
-274,Gamba,GA,24.13,overcast clouds,-2.65,10.0,
 277,Kudahuvadhoo,MV,27.27,overcast clouds,2.6708,72.8944,Niyama Private Islands Maldives
 279,Senador Guiomard,BR,29.86,scattered clouds,-10.1522,-67.7392,Paraíso Hotel
 282,Cabo San Lucas,MX,28.62,few clouds,22.8909,-109.9124,Hotel Tesoro Los Cabos
@@ -172,18 +166,14 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 466,Namatanai,PG,28.25,light rain,-3.6667,152.4333,Seagulls Inn Namatani
 468,Namibe,AO,20.06,broken clouds,-15.1961,12.1522,Hotel Chik Chik Namibe
 470,Rosarito,MX,22.45,overcast clouds,32.3333,-117.0333,Hotel Festival Plaza Rosarito
-471,Kayes,ML,29.12,overcast clouds,14.0,-11.0,
 472,Sorong,ID,24.53,light rain,-0.8833,131.25,Waigo Splash Hotel
 475,Poum,NC,27.38,overcast clouds,-20.2333,164.0167,Gîte kajeon
-477,Yaan,NG,29.39,overcast clouds,7.3833,8.5667,
 478,Sao Felix Do Xingu,BR,22.13,broken clouds,-6.6447,-51.995,Rio Xingu Camping
-481,Fonte Boa,BR,24.57,overcast clouds,-2.4959,-66.2662,
 484,Brokopondo,SR,24.54,broken clouds,4.75,-55.1667,Matu Island
 490,Mega,ET,20.1,overcast clouds,4.05,38.3,Amanuel Guest House
 492,Takoradi,GH,26.66,broken clouds,4.8845,-1.7554,Raybow International Hotel
 493,Yulara,AU,21.91,overcast clouds,-25.2406,130.9889,Desert Gardens Hotel - Ayers Rock Resort
 495,Guerrero Negro,MX,20.94,broken clouds,27.9769,-114.0611,"Casa Laguna, Bed & Breakfast"
-499,Birao,CF,22.04,broken clouds,10.2849,22.7882,
 501,Pires Do Rio,BR,22.03,overcast clouds,-17.2997,-48.2794,Hotel Goiano - Pires do Rio
 502,Banda Aceh,ID,24.95,broken clouds,5.5577,95.3222,Sulthan Hotel International
 504,Port Blair,IN,25.58,broken clouds,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
@@ -193,7 +183,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 514,Tibu,CO,27.38,broken clouds,8.639,-72.7358,Hotel Yuliana's
 515,Axim,GH,26.36,scattered clouds,4.8699,-2.2405,Axim Beach Resort And Spa
 519,Kununurra,AU,25.99,broken clouds,-15.7667,128.7333,Hotel Kununurra
-521,Micheweni,TZ,26.53,overcast clouds,-4.9667,39.8333,
 522,Manado,ID,23.43,moderate rain,1.487,124.8455,Aryaduta Hotel
 527,Chicama,PE,21.3,scattered clouds,-7.8447,-79.1469,Balihai Bungalows
 531,Antalaha,MG,23.89,overcast clouds,-14.9003,50.2788,Hotel Vitasoa
@@ -219,7 +208,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 597,Codajas,BR,25.65,light rain,-3.8367,-62.0569,Atlântic Hotel
 598,Padang,ID,24.82,broken clouds,-0.9492,100.3543,Mercure Padang
 599,Palu,ID,23.8,light rain,-0.8917,119.8707,Hotel Santika Palu
-602,Dire,ML,27.55,overcast clouds,12.2833,-10.9667,
 603,Posse,BR,21.71,broken clouds,-14.0931,-46.3694,Pousada das Palmeiras
 604,Grenfell,AU,27.82,broken clouds,-33.9,148.1667,Grenfell Royal Hotel
 605,Ilo,PE,21.85,overcast clouds,-17.6394,-71.3375,Torreblanca Hotel
@@ -236,7 +224,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 626,Canutama,BR,24.51,moderate rain,-6.5339,-64.3831,Hotel Jhennifer
 630,Mapiripan,CO,26.42,overcast clouds,2.8892,-72.1256,Monserrate
 631,Neiafu,TO,27.85,light rain,-18.65,-173.9833,Mystic Sands Beachfront Accommodation
-633,Bonfim,BR,29.92,broken clouds,3.0833,-59.95,
 640,Porto Velho,BR,25.03,scattered clouds,-8.7619,-63.9039,Hotel Central
 642,Pochutla,MX,29.9,scattered clouds,15.7432,-96.4661,Hotel Posada San Jose
 644,Olinda,BR,27.85,scattered clouds,-8.0089,-34.8553,Hotel Albergue de Olinda
